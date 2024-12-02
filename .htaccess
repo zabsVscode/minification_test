@@ -3,5 +3,5 @@ SetOutputFilter DEFLATE
 
 # Activer la mise en cache pour les ressources statiques
 <FilesMatch "\.(jpg|jpeg|png|gif|css|js|webp|svg|woff|woff2|ttf|eot|otf)$">
-    Header set Cache-Control "max-age=31536000, public"
+    Header set Cache-Control "max-age=31536000, public, immutable"
 </FilesMatch>
