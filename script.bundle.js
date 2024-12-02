@@ -1,0 +1,1 @@
+/*Ce fichier script.bundle.js doit regrouper tout les script js que nous pourrons trouver, pour réduire les requêtes http donc plus de performances.*/
