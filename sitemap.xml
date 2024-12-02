@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:8080/minification_test/</loc>
+    <lastmod>2024-12-02T08:00:00+00:00</lastmod> <!-- Date de la dernière mise à jour -->
+    <changefreq>daily</changefreq> <!-- Fréquence de mise à jour -->
+    <priority>1.0</priority> <!-- Priorité de cette page -->
+  </url>
+</urlset>
